@@ -2,6 +2,7 @@
 ## 概要
 [vue-function-api](https://github.com/vuejs/vue-function-api)を使って
 Todoアプリを作りました。
+[こちら](https://daikikojima.github.io/vue-function-api-memo/#/)で試せます!!
 
 ## 実行方法
 ```
