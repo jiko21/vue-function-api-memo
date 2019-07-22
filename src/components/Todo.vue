@@ -12,11 +12,7 @@
           <b-row>
             <b-col class="todo-text" cols="8">{{ todo }}</b-col>
             <b-col>
-              <b-button
-                class="delete-button"
-                variant="danger"
-                @click="deleteTodo"
-              >
+              <b-button variant="danger" @click="deleteTodo">
                 Delete
               </b-button>
             </b-col>
