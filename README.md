@@ -1,29 +1,20 @@
 # todo_app
+## 概要
+[vue-function-api](https://github.com/vuejs/vue-function-api)を使って
+Todoアプリを作りました。
 
-## Project setup
+## 実行方法
 ```
-npm install
+npm ci
 ```
-
-### Compiles and hot-reloads for development
+で依存ライブラリをインストールします。
+### 実行
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+でdev serverが起動します。
+### ビルド
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+プロダクション用にビルドできます。
